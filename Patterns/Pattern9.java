@@ -1,5 +1,6 @@
 import java.util.*;
 public class Pattern9 {
+    @SuppressWarnings("resource")
     public static void main(String args[]){
         Scanner ob = new Scanner(System.in);
         System.out.print("Enter the number of rows: ");
