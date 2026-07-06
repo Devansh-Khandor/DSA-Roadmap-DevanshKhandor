@@ -14,8 +14,8 @@ public class SingleNumber {
     public static void main(String args[]){
         Scanner ob = new Scanner(System.in);
         System.out.println("Enter the number of elements in your array");
-        int n = ob.nextInt(); // Read number of elements
-        int arr[] = new int[n]; // Declare array of size n
+        int n = ob.nextInt(); 
+        int arr[] = new int[n]; 
         System.out.println("Start entering your elements");
 
         for(int i=0;i<arr.length;i++){
