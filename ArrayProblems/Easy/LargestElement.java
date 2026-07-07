@@ -1,6 +1,6 @@
 // Given an array arr[]. The task is to find the largest element and return it.
 
-package ArrayProblems;
+package ArrayProblems.Easy;
 
 import java.util.*;
 public class LargestElement {

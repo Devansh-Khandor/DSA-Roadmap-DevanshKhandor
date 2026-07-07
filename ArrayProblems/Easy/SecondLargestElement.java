@@ -2,7 +2,7 @@
 
 // Note: The second largest element should not be equal to the largest element.
 
-package ArrayProblems;
+package ArrayProblems.Easy;
 
 import java.util.Scanner;
 

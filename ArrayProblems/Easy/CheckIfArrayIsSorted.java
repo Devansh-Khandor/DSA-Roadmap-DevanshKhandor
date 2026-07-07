@@ -5,7 +5,7 @@
 
 // Note: An array A rotated by x positions results in an array B of the same length such that B[i] == A[(i+x) % A.length] for every valid index i.
 
-package ArrayProblems;
+package ArrayProblems.Easy;
 
 import java.util.Scanner;
 

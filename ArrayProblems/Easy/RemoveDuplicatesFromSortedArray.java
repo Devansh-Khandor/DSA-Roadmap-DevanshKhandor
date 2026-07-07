@@ -4,7 +4,7 @@
 
 // The first k elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index k - 1 can be ignored.
 
-package ArrayProblems;
+package ArrayProblems.Easy;
 
 import java.util.Scanner;
 
