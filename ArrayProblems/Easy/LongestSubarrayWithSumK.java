@@ -2,8 +2,8 @@ package ArrayProblems.Easy;
 
 import java.util.*;
 
-public class LongestSubarrayWithSumKpositives {
-    //Array has positives and zeros only
+public class LongestSubarrayWithSumK {
+    //Array has positives, zeros, or negatives
     public static void main(String args[]){
         @SuppressWarnings("resource")
         Scanner ob = new Scanner(System.in);
